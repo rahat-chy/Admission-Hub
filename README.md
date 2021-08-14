@@ -1,4 +1,4 @@
-# The name of our project is Admission Hub.It will help the admission seekers for getting admitted into both public and private university.They will get all the informations related to admission here.A preparation guideline will also be available for the admission test.There will be a notification system to notify the user about the important dates of his desired university.There will be a section for admission seekers in the abroad.
+ The name of our project is Admission Hub.It will help the admission seekers for getting admitted into both public and private university.They will get all the informations related to admission here.A preparation guideline will also be available for the admission test.There will be a notification system to notify the user about the important dates of his desired university.There will be a section for admission seekers in the abroad.
 We have selected API 19: Android 4.4(Kitkat).Because maximum people use Android Version 4.4 or above in our country.Thats why maximum people will be able to use our app.
 • Category wise University Information(Public,Private,International)
 • Subject wise University Information
